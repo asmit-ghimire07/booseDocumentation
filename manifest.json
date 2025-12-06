@@ -1,0 +1,346 @@
+{
+  "source_base_path": "C:/Users/ASMIT GHIMIRE/New folder",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.BooseCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.BooseCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.BooseCanvas",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.BooseCanvas.yml\" sourcestartlinenumber=\"1\">A fully functional implementation of the BOOSE <xref href=\"BOOSE.ICanvas\" data-throw-if-not-resolved=\"false\"></xref> interface\nusing real GDI+ graphics. All drawing operations are performed on an in-memory <xref href=\"System.Drawing.Bitmap\" data-throw-if-not-resolved=\"false\"></xref>\nthat can be displayed in a <xref href=\"System.Windows.Forms.PictureBox\" data-throw-if-not-resolved=\"false\"></xref> or saved to file.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyCircle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyCircle",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MyCircle.yml\" sourcestartlinenumber=\"1\">Implements the BOOSE CIRCLE command with support for filled circles.\nReplaces the broken original Circle class from BOOSE.dll.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyClear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyClear.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyClear",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MyClear.yml\" sourcestartlinenumber=\"1\">Clears the canvas to white and resets pen position to (0,0).</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyDrawTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyDrawTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyDrawTo",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyMoveTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyMoveTo",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MyMoveTo.yml\" sourcestartlinenumber=\"1\">Moves the pen to a new position without drawing a line.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyPenColour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyPenColour.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyPenColour",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MyPenColour.yml\" sourcestartlinenumber=\"1\">Changes the current drawing colour using RGB values.\nAccepts both &quot;pencolour&quot; and &quot;pen&quot; keywords.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyRect.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyRect",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MyRect.yml\" sourcestartlinenumber=\"1\">Draws a rectangle starting from the current pen position (top-left corner).\nSupports optional filled mode.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyReset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyReset.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyReset",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MyReset.yml\" sourcestartlinenumber=\"1\">Clears the canvas and resets pen colour to black.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MySetCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MySetCanvas.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MySetCanvas",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MySetCanvas.yml\" sourcestartlinenumber=\"1\">Resizes the canvas while preserving existing content.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyTri.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyTri.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyTri",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MyTri.yml\" sourcestartlinenumber=\"1\">Draws an upward-pointing triangle with base at the current pen position.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.MyWriteText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.MyWriteText.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands.MyWriteText",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.Commands.MyWriteText.yml\" sourcestartlinenumber=\"1\">Draws text at the current pen position using the current pen colour.\nDoes not move the pen.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Commands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Commands.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Commands",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.Form1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.Form1",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.MyCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.MyCommandFactory.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware.MyCommandFactory",
+      "Summary": "<p sourcefile=\"api/BooseSoftware.MyCommandFactory.yml\" sourcestartlinenumber=\"1\">Custom command factory that replaces broken or missing graphics commands\nin the original BOOSE.dll with fully working implementations.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseSoftware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseSoftware.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseSoftware",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTestProject1.BooseCanvasTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTestProject1.BooseCanvasTest.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseTestProject1.BooseCanvasTest",
+      "Summary": "<p sourcefile=\"api/BooseTestProject1.BooseCanvasTest.yml\" sourcestartlinenumber=\"1\">Unit tests for the BooseCanvas and custom drawing commands.\nVerifies correct behaviour of graphics operations using real GDI+ rendering.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseTestProject1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseTestProject1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BooseTestProject1",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Testproject1.Test1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Testproject1.Test1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Testproject1.Test1",
+      "Summary": "<p sourcefile=\"api/Testproject1.Test1.yml\" sourcestartlinenumber=\"1\">Unit tests verifying correct behaviour of RECT and CLEAR commands\nusing real GDI+ rendering on BooseCanvas.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Testproject1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Testproject1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Testproject1",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
